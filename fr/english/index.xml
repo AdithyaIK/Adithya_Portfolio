@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Englishes on Adithya&#39;s Portfolio</title>
+    <link>https://adithyaik.github.io/Adithya_Portfolio/fr/english/</link>
+    <description>Recent content in Englishes on Adithya&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://adithyaik.github.io/Adithya_Portfolio/fr/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/fr/english/funfacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/fr/english/funfacts/</guid>
+      <description>#&amp;mdash; title: &amp;quot;&amp;quot; bg_image: &amp;ldquo;images/backgrounds/funfact-bg.jpg&amp;rdquo; funfacts:
+funfacts item loop  name : &amp;ldquo;HANDS TO WORK&amp;rdquo; image : &amp;ldquo;images/icons/works.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/fr/english/service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/fr/english/service/</guid>
+      <description>#&amp;mdash; title : &amp;ldquo;SERVICES&amp;rdquo; service_list:
+service item loop  name : &amp;ldquo;Web Development&amp;rdquo; image : &amp;ldquo;images/icons/web-development.</description>
+    </item>
+    
+    <item>
+      <title>CERTIFICATES</title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/fr/english/testimonial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/fr/english/testimonial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KNOW MORE &lt;br&gt; ABOUT ME</title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/fr/english/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/fr/english/about/</guid>
+      <description>Hi!, I&amp;rsquo;m Adithya an AI Engineer. I love to write code, it&amp;rsquo;s my passion.</description>
+    </item>
+    
+    <item>
+      <title>Welcome I&#39;m Adithya IK</title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/fr/english/banner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/fr/english/banner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You can Contact me</title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/fr/english/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/fr/english/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>You can contact me </title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/fr/english/call-to-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/fr/english/call-to-action/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

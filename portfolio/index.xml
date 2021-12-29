@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROJECTS on Adithya&#39;s Portfolio</title>
+    <link>https://adithyaik.github.io/Adithya_Portfolio/portfolio/</link>
+    <description>Recent content in PROJECTS on Adithya&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Aug 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://adithyaik.github.io/Adithya_Portfolio/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scene To Text Detection and Pronounciation</title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/portfolio/project-3/</link>
+      <pubDate>Tue, 11 Aug 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/portfolio/project-3/</guid>
+      <description>Project Details Scene texts contain rich semantic information which may be used in many vision-based applications, consequently detecting and recognizing scene texts have received increasing attention in recent years.</description>
+    </item>
+    
+    <item>
+      <title>Bike Price Prediction</title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/portfolio/project-2/</link>
+      <pubDate>Fri, 10 Apr 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/portfolio/project-2/</guid>
+      <description>Project Details  In the first step we have collected the dataset and it is converted to csv format after that several data pre-processing and modification steps like Managing Categorical attributes, Taking care of missing data for further implementation After implementation of several machine learning algorithms, we have finalized Decision Tree Regressor from sklearn library of python for our project with an accuracy of 99.</description>
+    </item>
+    
+    <item>
+      <title>Face Expression detection</title>
+      <link>https://adithyaik.github.io/Adithya_Portfolio/portfolio/project-1/</link>
+      <pubDate>Sun, 22 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://adithyaik.github.io/Adithya_Portfolio/portfolio/project-1/</guid>
+      <description>Project Details This project deals with the detection of the emotion on the face with the help of the camera.</description>
+    </item>
+    
+  </channel>
+</rss>
